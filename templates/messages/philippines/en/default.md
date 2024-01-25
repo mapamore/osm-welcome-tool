@@ -5,11 +5,11 @@ title: Welcome to OpenStreetMap
 
 Hello @{{ mapper.displayName }}
 
-Kudos on making your first edit for OpenStreetMap(OSM) in the Philippines! Thank you for your help making the map a little bit better.
-
-I'm {{ app.user.displayName }}, a fellow OSM contributor in the Philippines. Like-minded folks support fellow mappers in the Philippines to assist with questions or concerns, and help make a better map for everyone.. Here's [some of our projects](https://openstreetmap.org/wiki/Philippines/Projects). We don't only exist online, but also meet in real life, from time-to-time.
+Kudos on making your first OpenStreetMap(OSM) edit in the Philippines! Thank you for your help making the map a little bit better.
 
 **OpenStreetMap Philippines** is an informal association of all OSM contributors in the country - mappers and users alike. To get in touch with fellow contributors, check out the [Philippine community channels](https://osm.org/wiki/PH) in your platform.
+
+By the way, I'm {{ app.user.displayName }}, an OSM contributor like you. Many like-minded folks support fellow contributors in the Philippines, to share answers to questions or concerns they may have, and help make a better map for everyone.. Here's [some of our projects](https://openstreetmap.org/wiki/Philippines/Projects). We don't only exist online, but also meet in real life, from time-to-time.
 
 If you've got any questions or concerns, we may be able to help you: if you're unsure about how to map something, want to know more about OpenStreetMap, or simply want to touch based with fellow contributors, you may try the following channels that are most active:
 
